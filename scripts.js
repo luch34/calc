@@ -33,3 +33,20 @@ femaleNames[4]= "akua"
 femaleNames[5]= "yaa"
 femaleNames[6]= "afua"
 femaleNames[7]= "ama"
+
+
+function compute(form) {
+  var x = parseInt(form.day.value)
+  if (x<0) & (x > 7) {
+    alert("Invalid")
+  }
+  function compute(form) {
+    var x =parseInt(form.day.value)
+    if (x<o) & (x>7) {
+      alert("invalid")
+  }
+
+  function functionName(form) {
+    var x =parseInt(form.year.value)
+    if (x>o) & (X>7) {
+      alert("invalid)
