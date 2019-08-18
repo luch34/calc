@@ -5,18 +5,28 @@ input[type=submit] {
   padding: 14px 20px;
   margin: 8px 0;
   border: 20%;
-  border-radius: 4px;
-  cursor: pointer;
-}
+  }
+
 
 p {
 color: red;
 font-family: "Times New Roman", Times, serif;
 font-size: 20px;
+align-items: stretch;
+
 }
 
 body {
   color: red;
   text-align: inherit;
   background-color: lightpink;
+  bodysize: auto;
 }
+
+input[type=text] {
+  width: 100%
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: 100%;
+  }
