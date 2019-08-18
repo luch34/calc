@@ -15,9 +15,10 @@ The webpage form simply culculates the  the day of the week,date of the week,and
 ## Known Bugs
 If there are any issues that re not working correctly plese let me know.
 ## Technologies Used
-Javascript - For DOM(Document Object Manipulation) scripts
-HTML - For building Mark Up pages/User Interface
-CSS - For Styling User Interfac
+ 1 .Javascript - For DOM(Document Object Manipulation) scripts
+
+2 .HTML - For building Mark Up pages/User Interface
+3 .CSS - For Styling User Interfac
 you did something really cool using only HTML, point that out.}
 ## Support and contact detail
    for more information visit me at collinsluch@gmail.com or 0768904020
