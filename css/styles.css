@@ -14,3 +14,9 @@ color: red;
 font-family: "Times New Roman", Times, serif;
 font-size: 20px;
 }
+
+body {
+  color: red;
+  text-align: inherit;
+  background-color: lightpink;
+}
