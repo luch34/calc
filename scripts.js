@@ -15,3 +15,12 @@ da3[4] = "wednesday"
 day[5] = "thursday"
 day[6] = "friday"
 day[7] = "saturday"
+
+maleNames= culculationOfDay(7);
+maleNames= [kwasi, kwando, kwabena, kwaku, yaw, kwame]
+maleNames[1] = "kwasi"
+malenames[2] = "kwando"
+malenames[3] = "kwabena"
+malenames[4] = "kwaku"
+malenames[5] = "yaw"
+malenames[6] = "kwame"
