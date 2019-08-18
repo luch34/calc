@@ -1,10 +1,16 @@
 input[type=submit] {
-  width: 60%;
+  width: 100%;
   background-color: red;
   color: white;
   padding: 14px 20px;
   margin: 8px 0;
-  border: none;
+  border: 20%;
   border-radius: 4px;
   cursor: pointer;
+}
+
+p {
+color: red;
+font-family: "Times New Roman", Times, serif;
+font-size: 20px;
 }
