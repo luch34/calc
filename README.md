@@ -1,6 +1,6 @@
 #   Akan Name project
 #### this webpage was built to culculate the Akan names.
-#### By*Collins Luchele
+#### ByCollins Luchele
 ## Description
 The webpage form simply culculates the  the day of the week,date of the week,and month of the week the day Akan names Birthdays.
 ## Installation requrements
